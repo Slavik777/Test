@@ -1,1 +1,0 @@
-console.log("hau hai s vami ivanhai")
